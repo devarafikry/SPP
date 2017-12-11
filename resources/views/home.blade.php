@@ -152,7 +152,7 @@ $(document).ready(function(){
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
-                                    Pontianak
+                                    Pontianak timur
                                 </div>
                             </div>
                         </div>
