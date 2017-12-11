@@ -82,10 +82,10 @@ span.psw {
 
   <div class="container" >
     <label><b>Username</b></label>
-    <input type="text" placeholder="Enter Username" name="uname" required>
+    <input type="text" placeholder="Masukkan Username" name="uname" required>
 
     <label><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+    <input type="password" placeholder="Masukkan Password" name="psw" required>
 
     <button type="submit">SPP Login</button>
     <a href="{{URL::to('home')}}">Lanjutkan ke Aplikasi SPP</a>
